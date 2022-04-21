@@ -1,8 +1,8 @@
-<h3>⚠️ This repo is just a clone of <a href="https://github.com/TeamYukki/YukkiMusicBot">YukkiMusicBot</a>. All credits goes to devs of <a href="https://github.com/TeamYukki/YukkiMusicBot/graphs/contributors">YukkiMusicBot</a>.</h3>
+<h3>⚠️ This repo is just a clone of <a href="https://github.com/TeamYukki/YukkiMusicRobot">YukkiMusicRobot</a>. All credits goes to devs of <a href="https://github.com/LordKayden/VoidxMusic/graphs/contributors">VoidxMusic</a>.</h3>
 
 <p align="center"><img src="https://te.legra.ph/file/faa263269a733a5a571fe.jpg" alt="ICON" width="80%"/></p>
 
-# SiestaXMusic
+# VoidXMusic
 
 [VoidXMusic](https://github.com/Lors/VoidXMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
@@ -16,7 +16,7 @@
 
 # 🔗 An Overview
 
-Here's a brief high-level overview of the SiestaXMusic:
+Here's a brief high-level overview of the VoidXMusic:
 
 This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls) . Pyrogram is a modern, elegant and asynchronous MTProto API framework.
 
@@ -25,15 +25,15 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 * The project uses the font [`Poppins`](../assets/font.ttf) as its main font for the thumbnails.
 * The projects uses attractive images and icons which you can get in [assets](../assets/) directory.
 
-For more information on the technologies that power the SiestaXMusic, check out the [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/).
+For more information on the technologies that power the VoidXMusic, check out the [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/).
 
 
 
 # ⚡️ Getting Started
 
-### Before deploying SiestaXMusic , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
+### Before deploying VoidXMusic , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
 
-> If you want to start working with SiestaXMusic you can either fork or import repo .
+> If you want to start working with VoidXMusic you can either fork or import repo .
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
 > If you'd like to talk to us, join us on our [Telegram Group](https://telegram.me/VoidMusicSuppot)
 
@@ -92,7 +92,7 @@ For more information on the technologies that power the SiestaXMusic, check out 
 - Click on the **More Button** present at top right corner .
 - Click on the **View Logs** button from the drop down menu.
 - You check your logs there!
-- Click on save button there at bottom to save your logs and forward it to us on [@VoidMusicSupport](https://telegram.me/VoidMusicSupport) if you face any problem
+- Click on save button there at bottom to save your logs and forward it to us on [@VoidMusicSupport](https://telegram.me/NexusXSupport) if you face any problem
 
 </details>
 
@@ -116,7 +116,7 @@ shikhar@MacBook~ $ bash start
 > Not Getting VPS Method? [Watch Tutorial](https://telegram.me/TheYukki/2275)
 
 
-<img src="https://telegra.ph/file/6b75b57da50ef1183fcdc.jpg" align="center">
+<img src="https://te.legra.ph/file/faa263269a733a5a571fe.jpg" align="center">
 
 
 ## 🏷 Support
