@@ -1,10 +1,10 @@
 <h3>⚠️ This repo is just a clone of <a href="https://github.com/TeamYukki/YukkiMusicBot">YukkiMusicBot</a>. All credits goes to devs of <a href="https://github.com/TeamYukki/YukkiMusicBot/graphs/contributors">YukkiMusicBot</a>.</h3>
 
-<p align="center"><img src="https://telegra.ph/file/e17f42bc195635b668d6d.jpg" alt="ICON" width="80%"/></p>
+<p align="center"><img src="https://te.legra.ph/file/faa263269a733a5a571fe.jpg" alt="ICON" width="80%"/></p>
 
 # SiestaXMusic
 
-[SiestaXMusic](https://github.com/TechShreyash/SiestaXMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[VoidXMusic](https://github.com/Lors/VoidXMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
@@ -35,7 +35,7 @@ For more information on the technologies that power the SiestaXMusic, check out 
 
 > If you want to start working with SiestaXMusic you can either fork or import repo .
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
-> If you'd like to talk to us, join us on our [Telegram Group](https://telegram.me/TechZBots_Support)
+> If you'd like to talk to us, join us on our [Telegram Group](https://telegram.me/VoidMusicSuppot)
 
 
 ## 🖇 Prerequisites
@@ -58,8 +58,8 @@ For more information on the technologies that power the SiestaXMusic, check out 
 
 ## 🖇 Heroku Deployment
 
-<h4>Click the button below to deploy SiestaXMusic on Heroku!</h4>    
-<a href="https://dashboard.heroku.com/new?template=https://github.com/TechShreyash/SiestaXMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+<h4>Click the button below to deploy VoidXMusic on Heroku!</h4>    
+<a href="https://dashboard.heroku.com/new?template=https://github.com/LordKayden/VoidXMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 > How to Deploy To Heroku? [Watch Tutorial](https://www.youtube.com/embed/NPTk-awGalY)
 
@@ -92,7 +92,7 @@ For more information on the technologies that power the SiestaXMusic, check out 
 - Click on the **More Button** present at top right corner .
 - Click on the **View Logs** button from the drop down menu.
 - You check your logs there!
-- Click on save button there at bottom to save your logs and forward it to us on [@TechZBots_Support](https://telegram.me/TechZBots_Support) if you face any problem
+- Click on save button there at bottom to save your logs and forward it to us on [@VoidMusicSupport](https://telegram.me/VoidMusicSupport) if you face any problem
 
 </details>
 
@@ -102,8 +102,8 @@ For more information on the technologies that power the SiestaXMusic, check out 
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/TechShreyash/SiestaXMusic
-shikhar@MacBook~ $ cd SiestaXMusic
+shikhar@MacBook~ $ git clone https://github.com/LordKayden/VoidXMusic
+shikhar@MacBook~ $ cd VoidXMusic
 shikhar@MacBook~ $ sudo bash setup
 ```
 > Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
@@ -123,14 +123,14 @@ shikhar@MacBook~ $ bash start
 
 Reach out to the maintainer at one of the following places:
 
-- [Updates Channel](https://telegram.me/TechZBots)
-- [Support Group](https://telegram.me/TechZBots_Support)
+- [Updates Channel](https://telegram.me/VoidMusicUpdates)
+- [Support Group](https://telegram.me/NexusXSupport)
 
 ## 🎗 Project assistance
 
-If you want to say **thank you** or/and support active development of SiestaXMusic:
+If you want to say **thank you** or/and support active development of VoidXMusic:
 
-- Add a [GitHub Star](https://github.com/TechShreyash/SiestaXMusic) to the project.
+- Add a [GitHub Star](https://github.com/LordKayden/VoidXMusic) to the project.
 - Fork the Repo :)
 
 ## 👨🏻‍💻 Authors & contributors
