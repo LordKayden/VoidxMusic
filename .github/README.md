@@ -1,4 +1,4 @@
-<h3>⚠️ This repo is just a clone of <a href="https://github.com/TeamYukki/YukkiMusicRobot">YukkiMusicRobot</a>. All credits goes to devs of <a href="https://github.com/LordKayden/VoidxMusic/graphs/contributors">VoidxMusic</a>.</h3>
+<h3>⚠️ This repo is just a clone of <a href="https://github.com/TeamYukki/YukkiMusicRobot">YukkiMusicRobot</a>. All credits goes to devs of <a href="https://github.com/LordKayden/YukkiMusicRobot/graphs/contributors">YukkiMusicRobot</a>.</h3>
 
 <p align="center"><img src="https://te.legra.ph/file/faa263269a733a5a571fe.jpg" alt="ICON" width="80%"/></p>
 
